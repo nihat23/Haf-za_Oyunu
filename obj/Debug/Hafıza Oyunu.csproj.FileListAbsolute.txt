@@ -1,0 +1,9 @@
+D:\VB\Hafıza Oyunu\bin\Debug\Hafıza Oyunu.exe.config
+D:\VB\Hafıza Oyunu\bin\Debug\Hafıza Oyunu.exe
+D:\VB\Hafıza Oyunu\bin\Debug\Hafıza Oyunu.pdb
+D:\VB\Hafıza Oyunu\obj\Debug\Hafıza Oyunu.csprojAssemblyReference.cache
+D:\VB\Hafıza Oyunu\obj\Debug\Hafıza_Oyunu.Form1.resources
+D:\VB\Hafıza Oyunu\obj\Debug\Hafıza_Oyunu.Properties.Resources.resources
+D:\VB\Hafıza Oyunu\obj\Debug\Hafıza Oyunu.csproj.GenerateResource.cache
+D:\VB\Hafıza Oyunu\obj\Debug\Hafıza Oyunu.exe
+D:\VB\Hafıza Oyunu\obj\Debug\Hafıza Oyunu.pdb
